@@ -35,10 +35,10 @@ Group By & filtering
 4. Create interactive Dashboard.
 
 ## 4. Key Analysis
-Patient count by city
-Monthly revenue trends
-Appointment distribution by month
-Treatment frequency analysis
+* Patient count by city.
+* Monthly revenue trends
+* Appointment distribution by month
+* Treatment frequency analysis
 ###  Business Insights:
 * August generated the highest revenue, indicating peak hospital activity
 * Maple City has the highest number of patients, showing strong demand in that region
